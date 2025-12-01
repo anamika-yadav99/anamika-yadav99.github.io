@@ -21,7 +21,7 @@ main:
     notes: Preprint
     # image: ./assets/img/teaser_example.png
 
-  - title: PathQC: Determining molecular and physical integrity of tissues from histo-pathological slides. 2025
+  - title: PathQC Determining molecular and physical integrity of tissues from histo-pathological slides. 2025
     authors: Sinha RK, <strong>Yadav A</strong>, Sinha S* (*Corresponding authors)
     # conference_short: CVPR
     # conference: Forthcoming at Cell Reports Methods.
