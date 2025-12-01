@@ -35,8 +35,7 @@ main:
 
   
   - title: Quantitative characterization of cell niches in spatially resolved omics data
-    authors: Birk S, Bonafonte-Pardàs I, Feriz AM, Boxall A, Agirre E, Memi F, Maguza A, <strong>Yadav A</strong>, Armingol E, Fan R,
-Castelo-Branco G, Theis FJ, Bayraktar OA, Talavera-López C, Lotfollahi M.
+    authors: Birk S, Bonafonte-Pardàs I, Feriz AM, Boxall A, Agirre E, Memi F, Maguza A, <strong>Yadav A</strong>, Armingol E, Fan R, Castelo-Branco G, Theis FJ, Bayraktar OA, Talavera-López C, Lotfollahi M.
     # conference_short: CVPR
     conference: Nature Genetics
     # pdf: https://www.nature.com/articles/s41588-025-02120-6
@@ -47,9 +46,7 @@ Castelo-Branco G, Theis FJ, Bayraktar OA, Talavera-López C, Lotfollahi M.
 
   
   - title: ecPath detects ecDNA in tumors from histopathology images. 2024.
-    authors: Choudhury M, Liu L, <strong> Yadav A </strong>, Chapman O, Ahmadi Z, Younis R, Sharma C, Goel N, Sridhar S, Kenkre R,
-Dutta A, Wang S, Shulman E, Rahman Dhruba S, Hoang D-T, Tharp K, Paul M, Malicki D, Yip KY, Ruppin
-E, Chavez L, Sinha S
+    authors: Choudhury M, Liu L, <strong> Yadav A </strong>, Chapman O, Ahmadi Z, Younis R, Sharma C, Goel N, Sridhar S, Kenkre R, Dutta A, Wang S, Shulman E, Rahman Dhruba S, Hoang D-T, Tharp K, Paul M, Malicki D, Yip KY, RuppinE, Chavez L, Sinha S
     # conference_short: CVPR
     # conference: Forthcoming at Cell Reports Methods.
     pdf:  https://doi.org/10.1101/2024.11.13.623494
