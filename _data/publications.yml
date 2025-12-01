@@ -21,7 +21,6 @@ main:
     notes: Preprint
     # image: ./assets/img/teaser_example.png
 
-  
   - title: PathQC: Determining molecular and physical integrity of tissues from histo-pathological slides. 2025
     authors: Sinha RK, <strong>Yadav A</strong>, Sinha S* (*Corresponding authors)
     # conference_short: CVPR
@@ -33,7 +32,6 @@ main:
     notes: Preprint
     # image: ./assets/img/teaser_example.png
 
-  
   - title: Quantitative characterization of cell niches in spatially resolved omics data
     authors: Birk S, Bonafonte-Pardàs I, Feriz AM, Boxall A, Agirre E, Memi F, Maguza A, <strong>Yadav A</strong>, Armingol E, Fan R, Castelo-Branco G, Theis FJ, Bayraktar OA, Talavera-López C, Lotfollahi M.
     # conference_short: CVPR
@@ -44,7 +42,6 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # image: ./assets/img/teaser_example.png
 
-  
   - title: ecPath detects ecDNA in tumors from histopathology images. 2024.
     authors: Choudhury M, Liu L, <strong> Yadav A </strong>, Chapman O, Ahmadi Z, Younis R, Sharma C, Goel N, Sridhar S, Kenkre R, Dutta A, Wang S, Shulman E, Rahman Dhruba S, Hoang D-T, Tharp K, Paul M, Malicki D, Yip KY, RuppinE, Chavez L, Sinha S
     # conference_short: CVPR
