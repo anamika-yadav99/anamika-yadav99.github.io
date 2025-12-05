@@ -4,19 +4,20 @@ main:
     authors: <strong>Yadav A</strong>, Alvarez K, Yip KY, Ruppin E, Kumsta C, Sinha S* (*Corresponding authors)
     conference_short: Nature
     conference: Nature
-    pdf: https://doi.org/10.1101/2025.09.29.679316
-    # code: https://github.com/MrGiovanni/ContinualLearning
+    pdf: https://www.biorxiv.org/content/10.1101/2025.09.29.679316v3.full.pdf
+    code: https://github.com/Sinha-CompBio-Lab/PathStAR
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
+    page: https://www.biorxiv.org/content/10.1101/2025.03.04.641489v1
     notes: Under review
 
   - title: TLPath predicts telomere length in human tissues from histopathology images. 2025.
     authors: <strong>Yadav A</strong>, Alvarez K, Adeleye A, Wang YX, Sinha S* (*Corresponding authors)
     # conference_short: CVPR
     conference: Forthcoming at Cell Reports Methods.
-    pdf: https://doi.org/10.1101/2025.03.04.641489
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    pdf: https://www.biorxiv.org/content/10.1101/2025.03.04.641489v1.full.pdf
+    code: https://github.com/Sinha-CompBio-Lab/TLPath
+    page: https://www.biorxiv.org/content/10.1101/2025.03.04.641489v1
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Preprint
     # image: ./assets/img/teaser_example.png
@@ -25,9 +26,9 @@ main:
     authors: Sinha RK, <strong>Yadav A</strong>, Sinha S* (*Corresponding authors)
     # conference_short: CVPR
     # conference: Forthcoming at Cell Reports Methods.
-    pdf: https://doi.org/10.1101/2025.09.29.679347
+    pdf: https://www.biorxiv.org/content/10.1101/2025.09.29.679347v1.full.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    page: https://www.biorxiv.org/content/10.1101/2025.09.29.679347v1
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Preprint
     # image: ./assets/img/teaser_example.png
@@ -36,8 +37,8 @@ main:
     authors: Birk S, Bonafonte-Pardàs I, Feriz AM, Boxall A, Agirre E, Memi F, Maguza A, <strong>Yadav A</strong>, Armingol E, Fan R, Castelo-Branco G, Theis FJ, Bayraktar OA, Talavera-López C, Lotfollahi M.
     # conference_short: CVPR
     conference: Nature Genetics
-    # pdf: https://www.nature.com/articles/s41588-025-02120-6
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    pdf: https://www.nature.com/articles/s41588-025-02120-6.pdf
+    code: https://www.nature.com/articles/s41588-025-02120-6#code-availability
     page: https://www.nature.com/articles/s41588-025-02120-6
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # image: ./assets/img/teaser_example.png
@@ -46,9 +47,9 @@ main:
     authors: Choudhury M, Liu L, <strong> Yadav A </strong>, Chapman O, Ahmadi Z, Younis R, Sharma C, Goel N, Sridhar S, Kenkre R, Dutta A, Wang S, Shulman E, Rahman Dhruba S, Hoang D-T, Tharp K, Paul M, Malicki D, Yip KY, RuppinE, Chavez L, Sinha S
     # conference_short: CVPR
     # conference: Forthcoming at Cell Reports Methods.
-    pdf:  https://doi.org/10.1101/2024.11.13.623494
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    pdf:  https://www.biorxiv.org/content/10.1101/2024.11.13.623494v1.full.pdf
+    code: https://github.com/Sinha-CompBio-Lab/ecPATH
+    page: https://www.biorxiv.org/content/10.1101/2024.11.13.623494v1
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Preprint
     # image: ./assets/img/teaser_example.png
